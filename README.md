@@ -96,4 +96,6 @@ For questions or further information, please contact me:
 
 * Email - [prek.ps37@gmail.com](prek.ps37@gmail.com)
 
-* GitHub - [Preksha2408]
+* GitHub - [Preksha2408](https://github.com/Preksha2408/Preksha-PWA-text-editor.git)
+
+* Deployed app on render - [Deployed link](https://preksha-pwa-text-editor.onrender.com)
